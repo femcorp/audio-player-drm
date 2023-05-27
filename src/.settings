@@ -1,0 +1,5 @@
+{
+  [ "server.hashes" ] = {
+    ABC123 = true,
+  },
+}
